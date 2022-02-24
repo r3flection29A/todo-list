@@ -1,4 +1,5 @@
 import '../styles/header.scss'
+import { useState, useEffect } from 'React'
 
 export function Header() {
   return (
